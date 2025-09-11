@@ -3,6 +3,9 @@ A Simple Script to upload Files to https://gofile.io via Terminal (CLI). Written
 
 ## Usage:
 ```bash
+chmod +x upload.sh
+```
+```bash
 ./upload.sh <path/to/file>
 ```
 You'll see the link after the Upload gets Complete
