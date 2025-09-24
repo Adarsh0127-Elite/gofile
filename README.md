@@ -3,10 +3,7 @@ A Simple Script to upload Files to https://gofile.io via Terminal (CLI). Written
 
 ## Usage:
 ```bash
-wget https://raw.githubusercontent.com/Adarsh0127-Elite/GoFile-Script/main/upload.sh
-```
-```bash
-chmod +x upload.sh
+wget https://raw.githubusercontent.com/Adarsh0127-Elite/GoFile-Script/main/upload.sh && chmod +x upload.sh
 ```
 ```bash
 ./upload.sh <path/to/file>
