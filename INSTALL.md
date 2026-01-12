@@ -4,7 +4,7 @@
 
 - To make the script globally available, run the following commands in your terminal:
 ```bash
-   sudo wget https://raw.githubusercontent.com/tanvirr007/gofile/main/gofile.sh -O "/usr/local/bin/gofile"
+   sudo wget https://raw.githubusercontent.com/Adarsh0127-Elite/gofile/main/gofile.sh -O "/usr/local/bin/gofile"
    sudo chmod +x /usr/local/bin/gofile
 ```
 
